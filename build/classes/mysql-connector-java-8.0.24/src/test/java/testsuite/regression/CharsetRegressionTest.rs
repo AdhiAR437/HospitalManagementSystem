@@ -1,0 +1,5 @@
+testsuite.regression.CharsetRegressionTest$1
+testsuite.regression.CharsetRegressionTest$Bug73663QueryInterceptor
+testsuite.regression.CharsetRegressionTest
+testsuite.regression.CharsetRegressionTest$2
+testsuite.regression.CharsetRegressionTest$3

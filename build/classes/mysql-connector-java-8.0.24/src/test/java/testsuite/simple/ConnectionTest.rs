@@ -1,0 +1,13 @@
+testsuite.simple.ConnectionTest$1
+testsuite.simple.ConnectionTest
+testsuite.simple.ConnectionTest$2
+testsuite.simple.ConnectionTest$SpawnedWorkerCounter
+testsuite.simple.ConnectionTest$3
+testsuite.simple.ConnectionTest$4
+testsuite.simple.ConnectionTest$5
+testsuite.simple.ConnectionTest$6
+testsuite.simple.ConnectionTest$7
+testsuite.simple.ConnectionTest$8
+testsuite.simple.ConnectionTest$9
+testsuite.simple.ConnectionTest$TestEnableEscapeProcessingQueryInterceptor
+testsuite.simple.ConnectionTest$LocalSocketAddressCheckThread
